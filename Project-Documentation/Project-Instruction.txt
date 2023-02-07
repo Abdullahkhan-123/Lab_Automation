@@ -1,0 +1,32 @@
+
+
+	For New Account First Step Is:
+		Create a User account for adding a new products
+		
+	Only user can create/Make new account for uploading the product like Switch gears, Fuses, Capacitors, Resistors
+	
+	SRS And CPRI Account has been already created.
+	
+	About Admin Panel: 
+		If write in the project documentation about admin panel then I was add admin panel the admin panel is not required in the requirement that 		reason I was not created admin panel.
+	
+	About SRS And CPRI:
+		Cpri and Srs Department can't create there account beacuse of admin panel is not exist.
+
+	About Database:
+		The database name is (lab).
+
+	Access in the Project/Website
+		
+		The User Account Is
+		Email: abdullahkhan@gmail.com
+		Password: 12345
+		
+		The Srs Account Is
+		Email: srs@gmail.com
+		Password:12345
+
+		The Cpri Account Is
+		Email: cpri@gmail.com
+		Password:12345
+	
